@@ -2,9 +2,9 @@
 This is a simple contact form application built with React and react-hook-form. The application allows users to submit their name, email, and message. Upon submission, the data is logged to the console.
 
 # Features
-#Form Validation: Ensures all fields (Name, Email, and Message) are required.
-#Form Submission: Logs the form data to the console.
-#Form Reset: Resets the form fields after submission.
+#Form Validation: Ensures all fields (Name, Email, and Message) are required.                    
+#Form Submission: Logs the form data to the console.                              
+#Form Reset: Resets the form fields after submission.                    
 
 # Installation
 # Clone the repository:
